@@ -65,7 +65,7 @@ The tournament will use **Captain Mode** drafting with the following pick order:
 
 **Notes:**
 - Teams **A to D** will be **randomly assigned** prior to the draft.  
-- At the end of the draft, players may opt to swap a team member with another captain, provided both members are within the same score bracket and no more than one other captain objects to the swap.
+- At the end of the draft, captains may opt to swap a team member with another captain, provided both members are within the same score bracket and no more than one other captain objects to the swap.
 
 ---
 
