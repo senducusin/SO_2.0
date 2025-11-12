@@ -48,12 +48,12 @@ Standard 5-stars and all 4-star characters **do not consume points** and are fre
 
 ---
 
-### 4. Draft Preparation Guidelines
+### 3. Draft Preparation Guidelines
 - Non-captain participants are required to update their in-game profiles to showcase their top characters for preview during the team draft.
 
 ---
 
-### 3. Team Draft Format
+### 4. Team Draft Format
 
 The tournament will use **Captain Mode** drafting with the following pick order:
 
@@ -69,19 +69,19 @@ The tournament will use **Captain Mode** drafting with the following pick order:
 
 ---
 
-### 4. Team Composition
+### 5. Team Composition
 
 - Each team must consist of **at least two players** to ensure continuity in case of player withdrawal.  
 
 ---
 
-### 5. Progress Tracking
+### 6. Progress Tracking
 
 - During the event, players must **submit a screenshot** of their current clear time to the **Tournament Organizer (TO)** as a progress update.  
 
 ---
 
-### 6. Substitutions & Player Availability
+### 7. Substitutions & Player Availability
 
 If a team member becomes unable to continue due to travel, account issues, or other valid reasons, the following options apply:
 
