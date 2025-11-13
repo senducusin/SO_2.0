@@ -60,7 +60,7 @@ The tournament will use **Captain Mode** drafting with the following pick order:
 | Round | Draft Order |
 |--------|--------------|
 | 1 | A ➡️ B ➡️ C ➡️ D |
-| 2 | B ➡️ C ➡️ D ➡️ A |
+| 2 | B ➡️ D ➡️ C ➡️ A |
 | 3 | C ➡️ D ➡️ A ➡️ B |
 
 **Notes:**
